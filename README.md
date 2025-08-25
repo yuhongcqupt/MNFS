@@ -11,4 +11,4 @@ Experimental environment: Intel(R) Core(TM) i9-10980XE CPU @ 3.00GHz, 128.0 GB R
 
 reference Haoran Liu, Hong Yu, Zuqiang Su, Guoyin Wang. Modular Neuro-Fuzzy Systems for Multi-Label Tabular Data Classification.
 
-This work has been submitted to Expert Systems with Applications. The code will be updated after the publication.
+This work has been submitted to Advanced Engineering Informatics. The code will be updated after the publication.
